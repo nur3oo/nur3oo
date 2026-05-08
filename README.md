@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> **Hi, I'm Nur** <img src="https://media.giphy.com/media/PqjTdvXImZQfcmTYEO/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> **Hi, I'm Nur** 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;Always+building.+Always+learning.)](https://git.io/typing-svg)
 
