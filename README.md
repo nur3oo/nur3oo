@@ -27,7 +27,7 @@ I build reliable, scalable infrastructure on AWS using Terraform, containers, an
 
 ## <img src="https://media.giphy.com/media/PqjTdvXImZQfcmTYEO/giphy.gif" width="30px"> Projects
 
-### [ECS Fargate Stack](https://github.com/nur3oo/ECS)
+### [ECS - Outline](https://github.com/nur3oo/ECS)
 Containerised app deployed on AWS ECS Fargate with Terraform — featuring ALB, RDS, CloudFront, ECR, Secrets Manager, and VPC endpoints replacing NAT Gateway for cost efficiency.
 
 ![AWS ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=black)
@@ -35,7 +35,7 @@ Containerised app deployed on AWS ECS Fargate with Terraform — featuring ALB, 
 
 ---
 
-### [ECSv2 — URL Shortener](https://github.com/nur3oo/ecsv2)
+### [ECSv2 - URL Shortener](https://github.com/nur3oo/ecsv2)
 A URL shortener service running on multi-AZ ECS Fargate with zero-downtime blue-green deployments via CodeDeploy, WAFv2 protection, and a custom domain.
 
 ![AWS ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=black)
@@ -43,7 +43,7 @@ A URL shortener service running on multi-AZ ECS Fargate with zero-downtime blue-
 
 ---
 
-### EKS — Uptime Kuma *(coming soon)*
+### EKS - Uptime Kuma *(coming soon)*
 Self-hosted uptime monitoring deployed on EKS, tracking service availability with real-time alerts and a clean status dashboard — managed with Helm and GitOps via ArgoCD.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
