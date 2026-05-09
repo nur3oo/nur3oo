@@ -28,7 +28,7 @@ I build reliable, scalable infrastructure on AWS using Terraform, containers, an
 ## <img src="https://media.giphy.com/media/PqjTdvXImZQfcmTYEO/giphy.gif" width="30px"> Projects
 
 ### [ECS - Outline](https://github.com/nur3oo/ECS)
-Containerised app deployed on AWS ECS Fargate with Terraform — featuring ALB, RDS, CloudFront, ECR, Secrets Manager, and VPC endpoints replacing NAT Gateway for cost efficiency.
+Containerised app deployed on AWS ECS Fargate with Terraform, featuring ALB, RDS, CloudFront, ECR, Secrets Manager, and VPC endpoints replacing NAT Gateway for cost efficiency.
 
 ![AWS ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=black)
 `Terraform` `ALB` `RDS` `CloudFront` `GitHub Actions` `AWS`
