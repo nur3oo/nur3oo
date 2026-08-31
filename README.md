@@ -43,7 +43,7 @@ A URL shortener service running on multi-AZ ECS Fargate with zero-downtime blue-
 
 ---
 
-### EKS - Uptime Kuma *(coming soon)*
+### [EKS - Uptime Kuma](https://github.com/nur3oo/EKS)
 Self-hosted uptime monitoring deployed on EKS, tracking service availability with real-time alerts and a clean status dashboard — managed with Helm and GitOps via ArgoCD.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
